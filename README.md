@@ -2,7 +2,7 @@ My Web Apps
 
 I’ve built three simple web apps using just HTML, CSS, and JavaScript — no frameworks, no libraries, nothing complicated. Just open the file in your browser and it works instantly.
 
-Apps
+⸻
 
 Atmos — Weather App
 
